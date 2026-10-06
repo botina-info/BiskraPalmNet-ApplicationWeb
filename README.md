@@ -65,6 +65,19 @@ Research interests include:
 
 ---
 
+Image
+  ↓
+AI-Based Prediction
+  ↓
+Prediction Confidence
+  ↓
+Explainability (Grad-CAM)
+  ↓
+Decision Support
+  ↓
+Agricultural Recommendation
+
+---
 ## 4. Considered Date Palm Leaf Conditions
 
 The application considers three classes:
