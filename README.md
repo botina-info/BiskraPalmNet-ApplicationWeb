@@ -64,7 +64,7 @@ The class-label mapping used by the application is defined in:
 class_names.txt
 ---
 
-## 5.Author
+## 5. Author
 
 Bouthina Rachachi
 PhD Researcher
