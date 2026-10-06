@@ -62,6 +62,7 @@ The class-label mapping used by the application is defined in:
 
 ```text
 class_names.txt
+---
 
 ## 5.Author
 
@@ -76,3 +77,5 @@ Research interests include:
 - Smart Agriculture
 - Agricultural Decision Support Systems
 - Date Palm Disease Monitoring
+
+---
