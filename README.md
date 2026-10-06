@@ -62,3 +62,17 @@ The class-label mapping used by the application is defined in:
 
 ```text
 class_names.txt
+
+## 5.Author
+
+Bouthina Rachachi
+PhD Researcher
+University Mohamed Khider, Biskra, Algeria
+Research interests include:
+- Artificial Intelligence in Agriculture
+- Deep Learning
+- Computer Vision
+- Explainable Artificial Intelligence
+- Smart Agriculture
+- Agricultural Decision Support Systems
+- Date Palm Disease Monitoring
