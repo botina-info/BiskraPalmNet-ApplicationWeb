@@ -49,21 +49,6 @@ The main objectives of BiskraPalmNet-Web are to:
 - demonstrate the transition from an experimental AI model to a real-world agricultural application.
 
 ---
-
-## 4. Considered Date Palm Leaf Conditions
-
-The application considers three classes:
-
-1. **White Cochineal**
-2. **Brown Leaf Spot**
-3. **Healthy Date Palm Leaf**
-
-The class-label mapping used by the application is defined in:
-
-```text
-class_names.txt
----
-
 ## 5. Author
 
 Bouthina Rachachi
@@ -79,3 +64,19 @@ Research interests include:
 - Date Palm Disease Monitoring
 
 ---
+
+## 4. Considered Date Palm Leaf Conditions
+
+The application considers three classes:
+
+1. **White Cochineal**
+2. **Brown Leaf Spot**
+3. **Healthy Date Palm Leaf**
+
+The class-label mapping used by the application is defined in:
+
+```text
+class_names.txt
+---
+
+
