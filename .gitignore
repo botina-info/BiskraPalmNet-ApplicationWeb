@@ -4,4 +4,10 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-.env
+.env 
+# Local databases and backups 
+*.db 
+*.db-* 
+*.sqlite 
+*.sqlite3 
+venv_*/
